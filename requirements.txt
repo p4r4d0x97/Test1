@@ -1,3 +1,0 @@
-opencv-python==5.1.0.95
-pillow==13.0.0
-cv2-enumerate-cameras==1.4.0
